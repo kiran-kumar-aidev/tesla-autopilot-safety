@@ -6,7 +6,9 @@ Files included: cleaned CSV, plots, summary report, analysis script.
 
 # Tesla Autopilot Safety Analysis
 
-[![Open In Colab](https://colab.research.google.com/github/kiran-kumar-aidev/tesla-autopilot-safety/blob/main/02AutopilotSafetyAnalysis.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiran-kumar-aidev/tesla-autopilot-safety/blob/main/02AutopilotSafetyAnalysis.ipynb)
+
 
 This repository contains analysis and visualizations of the `Tesla - Deaths.csv` dataset.  
 It includes data cleaning, exploratory data analysis (EDA), visualizations, and a short summary report.
