@@ -1,0 +1,8 @@
+TESLA AUTOPILOT SAFETY ANALYSIS REPORT
+==================================================
+
+Total Deaths: 3075
+Tesla Driver Deaths: 122
+Multi-Occupant Deaths: 9 cases (3.0%)
+Tesla Collisions with Other Vehicles: 115
+T-Test P-Value (Autopilot vs Non): 0.1908
